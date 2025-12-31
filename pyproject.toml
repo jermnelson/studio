@@ -1,0 +1,9 @@
+[project]
+name = "Art, Martial, and Craft Studio"
+version = "0.1.0"
+description = "Jeremy Nelson's personal art and crafts studio that also includes martial arts training."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "quart>=0.20.0",
+]
